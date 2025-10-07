@@ -1,5 +1,5 @@
 # Change the default theme to be use when building the site with Hugo
-baseURL = "https://<ngit-jsjs>.github.io/<Host-Hugo-Web-in-Docker-Container-Learning-Project>/"
+baseURL = "https://ngit-jsjs.github.io/Host-Hugo-Web-in-Docker-Container-Learning-Project/"
 languageCode = "en-us"
 title = "AWS System Manager"
 theme = "hugo-theme-learn"
